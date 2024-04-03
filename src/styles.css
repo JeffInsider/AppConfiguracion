@@ -1,0 +1,49 @@
+.dark-theme {
+  background-color: #333;
+  color: #fff;
+}
+
+.dark-theme .bg-gray-50 {
+  background-color: #444;
+}
+
+.dark-theme .form-radio:checked {
+  border-color: #fff;
+}
+
+.dark-theme .form-checkbox:checked {
+  border-color: #fff;
+}
+
+.text-white {
+  color: #fff;
+}
+
+.modo-lectura {
+  background-color: #f8f7ee; /* Fondo claro */ /* Texto oscuro */
+  font-size: 18px; /* Tamaño de fuente */
+  line-height: 1.6; /* Espaciado entre líneas */
+  /* Otros estilos según tus necesidades */
+}
+
+.modo-lectura p {
+  margin-bottom: 1em; /* Espacio entre párrafos */
+}
+
+.modo-lectura h2 {
+  color: #333;
+}
+
+.modo-lectura h1,
+.modo-lectura h3,
+.modo-lectura h4,
+.modo-lectura h5,
+.modo-lectura h6 {
+  margin-top: 1em; /* Espacio antes de títulos */
+  margin-bottom: 0.5em; /* Espacio después de títulos */
+}
+
+.modo-lectura .mb-6 {
+  margin-bottom: 20px;
+}
+
